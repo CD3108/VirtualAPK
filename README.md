@@ -1,15 +1,4 @@
-# VirtualAPK
-<<<<<<< HEAD
-
-第一步：安装 host
-
-第二步：将Demo 系列放入 getExternalStorageDirectory()+"/Download/" 下  （此路径为代码中配置的加载路径）
-
-第三步，启动 host 即可
-=======
-Host 为宿主 APK
-Demo 为插件1
-DemoB 为插件2
+VirtualAPK
 
 运行步骤：
 
@@ -24,4 +13,4 @@ DemoB 为插件2
 
 构建失败等一般问题可以看此博客 https://blog.csdn.net/a31081314/article/details/82661009
 或联系 QQ 781217278
->>>>>>> 2a8791d5595004af300668911b6b07d9b4f270e7
+
