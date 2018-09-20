@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.hyphenate:kefu-easeui-android-1.1.7.final">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/kefu-easeui-android-1.1.7.final.aar/22a990ee98b1a9b587af9f630673ec5b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/kefu-easeui-android-1.1.7.final.aar/22a990ee98b1a9b587af9f630673ec5b/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hyphenate/kefu-easeui-android/1.1.7.final/34c9ba68c8652da08fff550517e62a6c4edec520/kefu-easeui-android-1.1.7.final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

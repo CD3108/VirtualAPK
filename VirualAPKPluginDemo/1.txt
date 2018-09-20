@@ -1,0 +1,5 @@
+To honour the JVM settings for this build a new JVM will be forked. Please consider using the daemon: https://docs.gradle.org/2.14.1/userguide/gradle_daemon.html.
+
+BUILD FAILED
+
+Total time: 5 mins 50.792 secs

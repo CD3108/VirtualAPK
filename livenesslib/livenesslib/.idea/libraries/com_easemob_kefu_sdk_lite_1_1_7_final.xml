@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.easemob:kefu-sdk-lite-1.1.7.final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/kefu-sdk-lite-1.1.7.final.aar/7ff073eafa58c037acc8b5dc2e30fe77/jars/libs/hyphenatechat_3.4.1.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/kefu-sdk-lite-1.1.7.final.aar/7ff073eafa58c037acc8b5dc2e30fe77/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/kefu-sdk-lite-1.1.7.final.aar/7ff073eafa58c037acc8b5dc2e30fe77/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.easemob/kefu-sdk-lite/1.1.7.final/e7c57add0aaeeaf92c72fad7614f17da15aee1ba/kefu-sdk-lite-1.1.7.final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

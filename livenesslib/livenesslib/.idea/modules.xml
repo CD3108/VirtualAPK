@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CashLoan.iml" filepath="$PROJECT_DIR$/../CashLoan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IDCardLib/IDCardLib.iml" filepath="$PROJECT_DIR$/../IDCardLib/IDCardLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bankCardLib/bankCardLib.iml" filepath="$PROJECT_DIR$/../bankCardLib/bankCardLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../baseComponents/baseComponents.iml" filepath="$PROJECT_DIR$/../baseComponents/baseComponents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/livenesslib.iml" filepath="$PROJECT_DIR$/livenesslib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pinyin/pinyin.iml" filepath="$PROJECT_DIR$/../pinyin/pinyin.iml" />
+    </modules>
+  </component>
+</project>

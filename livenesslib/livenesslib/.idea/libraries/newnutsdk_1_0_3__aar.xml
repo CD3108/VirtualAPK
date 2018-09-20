@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="newnutsdk-1.0.3:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/newnutsdk-1.0.3.aar/e71d6ee5ab8ce12955b455eb35cf9094/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/newnutsdk-1.0.3.aar/e71d6ee5ab8ce12955b455eb35cf9094/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
